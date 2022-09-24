@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Indonesia Food</string>
+    <string name="detail">selengkapnya</string>
+    <string name="name">Food Name</string>
+    <string name="profile">Profile</string>
+    <string name="name_profile">Andre Gilang Firmansyah</string>
+    <string name="gmail">gfandre3@gmail.com</string>
+    <string name="instagram">andrgf_</string>
+    <string name="linkedin">Andre Gilang Firmansyah</string>
+    <string name="name_food">Name Food</string>
+    <string name="menu_makanan">Menu makanan</string>
+    <string name="about">About</string>
+</resources>
